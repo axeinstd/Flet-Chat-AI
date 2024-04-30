@@ -6,6 +6,8 @@ AI chat app based on Flet - a python framework for web- applications.
 ## TODOS:
 - [x] Simple functionallity
 - [x] [Groq API](https://console.groq.com/playground "Grab Groq API key here~") support
+- [x] Windows support
 - [ ] NvidiaAI, OpenAI, ollama, google ai studio (gpt4free!) API support
 - [ ] Customization AI responsing (markdown, temperature, max token, stream)
+- [ ] Cross-platform support
 ### Contribudet by [axeinstd](https://youtube.com/axeinstd "axeinstd youtube")
