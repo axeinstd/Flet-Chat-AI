@@ -10,4 +10,5 @@ AI chat app based on Flet - a python framework for web- applications.
 - [ ] NvidiaAI, OpenAI, ollama, google ai studio (gpt4free!) API support
 - [ ] Customization AI responsing (markdown, temperature, max token, stream)
 - [ ] Cross-platform support
+## The latest release with source code is always here: [Releases](https://github.com/axeinstd/Flet-Chat-AI/releases "Releases")
 ### Contribudet by [axeinstd](https://youtube.com/axeinstd "axeinstd youtube")
